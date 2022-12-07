@@ -88,8 +88,8 @@ coder.sayHi()
 
 <br>
 
-![Hotson's GitHub stats](https://github-readme-stats.vercel.app/api?username=HOTSONHONET&show_icons=true&theme=dark)
+![Hotson's GitHub stats](https://github-readme-stats.vercel.app/api?username=rudraHH&show_icons=true&theme=dark)
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=HOTSONHONET&color=blue&style=flat-square)
+![](https://komarev.com/ghpvc/?username=rudraHH&color=blue&style=flat-square)
